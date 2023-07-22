@@ -70,3 +70,23 @@
 /* .banner button{
     font-family: 'Poppins', sans-serif;
 } */
+.sponsor-container{
+    display: flex;
+    justify-content: center;
+    gap: 61px;
+    margin-top: 130px;
+}
+/* main{
+    margin: 0px auto;
+} */
+.sponsor-container img{
+    cursor: pointer;
+}
+.cart-header{
+    text-align: center;
+    margin-top: 134px;
+    font-family: 'Poppins', sans-serif;
+    color: #3a3a3a;
+    font-family: 1.8rem;
+    font-weight: 600;
+}
